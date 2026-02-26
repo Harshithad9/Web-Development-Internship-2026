@@ -25,5 +25,3 @@ This project helps in practicing fundamental HTML concepts such as:
 - Tables
 - Sections
 - Basic formatting elements
-
-## 📂 Project Structure

@@ -44,11 +44,6 @@ Inside each folder:
 ## 🧠 Key Learning Outcomes  
 
 Through this internship, I have:
-
-
-
-
-
 - Built structured static web pages using HTML  
 - Designed responsive layouts using CSS and Flexbox  
 - Implemented JavaScript logic and problem-solving exercises  

@@ -1,77 +1,60 @@
-# 📘 Web Development Internship – 2026  
+# 📘 Assignment (12/02/2026)
 
-## 👩‍💻 About This Repository  
+## 🌐 Assignment Name: My First Website
 
-This repository contains all the assignments, practice exercises, and mini projects completed during my Web Development Internship (2026).
+### 📌 Description
+This assignment involves creating a personal profile webpage using basic HTML elements such as headings, images, links, and lists.
 
-The internship focused on strengthening my foundation in frontend development and understanding how modern web applications are built. Each folder in this repository represents daily learning, assignments, and hands-on implementation of core web development concepts.
-
-This repository reflects my consistency, practical understanding, and progressive learning throughout the internship.
-
----
-
-## 🚀 Technologies Covered  
-
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- DOM Manipulation  
-- Responsive Web Design  
-- React.js (Basics)  
+The goal of this assignment is to understand the structure of a simple web page and practice fundamental HTML concepts.
 
 ---
 
-## 📂 Repository Structure  
-
-Each folder represents a specific topic or assignment completed during the internship.
-
-Example:
-
-Day-01-HTML-Basics  
-Day-02-Resume-Webpage  
-Day-03-Client-Server-Architecture  
-Day-04-Flexbox-Responsive-Design  
-Day-05-DOM-Manipulation  
-Day-06-React-Basics  
-
-Inside each folder:
-- Source code files  
-- Supporting files (CSS/JS if required)  
-- Brief explanation of the assignment  
+## 🛠️ Technologies Used
+- HTML5
 
 ---
 
-## 🧠 Key Learning Outcomes  
+## ✨ Features Implemented
 
-Through this internship, I have:
-- Built structured static web pages using HTML  
-- Designed responsive layouts using CSS and Flexbox  
-- Implemented JavaScript logic and problem-solving exercises  
-- Performed DOM manipulation and event handling  
-- Developed mini interactive projects (Form / Calculator / To-Do List)  
-- Understood React concepts such as components, props, state, and conditional rendering  
-
----
-
-## 🎯 Objective  
-
-The goal of this repository is to document my learning journey and demonstrate my understanding of frontend development concepts through practical implementation.
+- ✅ Main Heading (Name & Title)
+- ✅ Profile Image
+- ✅ About Me Section
+- ✅ Skills (Unordered List)
+- ✅ Hobbies (Ordered List)
+- ✅ External Links (GitHub & LinkedIn)
+- ✅ Footer Section
 
 ---
 
-## 📈 Progress Tracker  
+## 📚 Concepts Practiced
 
-- [x] HTML Fundamentals  
-- [x] CSS Layouts & Flexbox  
-- [x] JavaScript Basics  
-- [x] DOM & Events  
-- [x] React Introduction  
-- [ ] Advanced React (In Progress)  
+- Basic HTML document structure
+- Headings (`<h1>`, `<h2>`, `<h3>`)
+- Paragraphs (`<p>`)
+- Images (`<img>`)
+- Hyperlinks (`<a>`)
+- Unordered Lists (`<ul>`)
+- Ordered Lists (`<ol>`)
+- Horizontal Rule (`<hr>`)
 
 ---
 
-## 📌 Author  
+## 🎯 Learning Outcome
+
+Through this assignment, I learned:
+- How to create a basic webpage
+- How to structure content using HTML tags
+- How to add images and hyperlinks
+- The difference between ordered and unordered lists
+
+---
+
+## 👩‍💻 Author
 
 Harshitha D  
-B.E – Computer Science & Engineering  
-Aspiring Full Stack Developer  
+Computer Science Engineering Student  
+Passionate about Web Development and Software Development
+
+---
+
+⭐ This is my first step towards becoming a frontend developer!

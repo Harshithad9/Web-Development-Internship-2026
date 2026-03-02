@@ -1,26 +1,19 @@
-# 💼 8th Semester Internship – Web Development (2026)
+# 💼 Web Development Internship – 2026  
+## 🎓 8th Semester Internship Repository
 
-This repository contains the assignments and practical tasks completed during my 8th semester internship in Web Development.
+Welcome to my 8th Semester Web Development Internship Repository.
+
+This repository contains all assignments and practical implementations completed as part of my internship during the final semester of my Computer Science & Engineering degree.
 
 ---
 
 ## 👩‍💻 About Me
 
-Harshitha D  
-Final Year (8th Semester) – Computer Science & Engineering  
-Aspiring Software Developer with strong interest in Web Development and Software Engineering.
+**Harshitha D**  
+Final Year – Computer Science & Engineering  
+Aspiring Software Developer | Web Development Enthusiast  
 
----
-
-## 🎯 Internship Objective
-
-The purpose of this internship is to:
-
-- Strengthen core web development fundamentals
-- Understand client-server architecture
-- Practice webpage creation and styling
-- Improve Git & GitHub workflow
-- Build structured and clean projects
+This internship focuses on strengthening my frontend fundamentals and understanding core web concepts.
 
 ---
 
@@ -28,6 +21,7 @@ The purpose of this internship is to:
 
 - HTML5
 - CSS3
+- JavaScript (ES6)
 - Git
 - GitHub
 - VS Code
@@ -36,41 +30,51 @@ The purpose of this internship is to:
 
 ## 📘 Assignments Completed
 
-### ✅ Assignment 1 – Internet Explorer
-- Studied Client-Server Architecture
-- Understood DNS and HTTP Request-Response cycle
+### ✅ Assignment 1 – Basic HTML Web Page
+- Created a structured HTML resume webpage
+- Practiced headings, tables, lists, and semantic structure
 
-### ✅ Assignment 2 – My First Website
-- Created a personal profile webpage
+### ✅ Assignment 3 – My First Website
+- Built a personal profile webpage
 - Used headings, images, links, and lists
 
-### ✅ Assignment 3 – Make It Beautiful
+### ✅ Assignment 4 – Make It Beautiful
 - Styled the webpage using CSS
-- Applied colors, fonts, borders, spacing, and hover effects
+- Applied colors, fonts, borders, spacing
+- Improved layout using box model concepts
 
-### ✅ Resume Web Page
-- Developed a structured HTML resume page
+### ✅ Assignment 5 – Responsive Hero Page
+- Built a responsive landing section
+- Implemented Flexbox layout
+- Used media queries for mobile responsiveness
+
+### ✅ Assignment 6 – Console Challenge
+- Wrote JavaScript calculator programs
+- Executed logic inside browser console
+- Practiced arithmetic operations and user input handling
 
 ---
 
-## 📈 Learning Outcomes
+## 🎯 Key Learning Outcomes
 
 Through this internship, I have:
 
-- Improved my frontend development fundamentals
-- Understood how the web works behind the scenes
-- Practiced version control using Git
-- Learned how to organize and manage repositories professionally
+- Strengthened HTML structure fundamentals
+- Improved CSS styling and layout skills
+- Understood responsive design using Flexbox
+- Practiced JavaScript basics in the browser
+- Gained hands-on experience with Git & GitHub workflows
+- Learned how to structure and manage repositories professionally
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Future Enhancements
 
-- Make projects responsive
-- Add JavaScript interactivity
-- Deploy projects online
+- Add JavaScript interactivity to web pages
+- Make all projects fully responsive
+- Deploy projects using GitHub Pages
 - Convert static pages into dynamic web applications
 
 ---
 
-⭐ This repository reflects my learning journey during my final semester internship.
+⭐ This repository represents my growth and learning journey during my 8th semester internship.

@@ -55,6 +55,8 @@ This internship focuses on strengthening my frontend fundamentals and understand
 
 ---
 
+Assignment 7
+ ongoing
 ## 🎯 Key Learning Outcomes
 
 Through this internship, I have:
@@ -76,5 +78,6 @@ Through this internship, I have:
 - Convert static pages into dynamic web applications
 
 ---
+
 
 ⭐ This repository represents my growth and learning journey during my 8th semester internship.

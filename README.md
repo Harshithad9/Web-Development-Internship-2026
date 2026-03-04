@@ -53,10 +53,20 @@ This internship focuses on strengthening my frontend fundamentals and understand
 - Executed logic inside browser console
 - Practiced arithmetic operations and user input handling
 
+### ✅ Assignment 7 – Student Manager
+- Used JavaScript arrays and objects to store student data
+- Stored marks for multiple subjects
+- Calculated average marks for each student
+- Displayed results using console output
+
+### ✅ Assignment 8 – Interactive Form
+- Built an HTML form with input fields
+- Implemented JavaScript validation for user inputs
+- Displayed success and error messages
+- Improved user interaction with dynamic feedback
+
 ---
 
-Assignment 7
- ongoing
 ## 🎯 Key Learning Outcomes
 
 Through this internship, I have:

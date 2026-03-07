@@ -34,6 +34,11 @@ This internship focuses on strengthening my frontend fundamentals and understand
 - Created a structured HTML resume webpage
 - Practiced headings, tables, lists, and semantic structure
 
+### ✅ Assignment 1 – Internet Explorer
+- Studied Client–Server architecture
+- Understood how websites load in a browser
+- Traced the request–response cycle when opening a webpage
+
 ### ✅ Assignment 3 – My First Website
 - Built a personal profile webpage
 - Used headings, images, links, and lists
@@ -64,6 +69,11 @@ This internship focuses on strengthening my frontend fundamentals and understand
 - Implemented JavaScript validation for user inputs
 - Displayed success and error messages
 - Improved user interaction with dynamic feedback
+
+### ✅ Assignment 9 – Component Hunt
+- Analyzed the structure of a popular website
+- Broke the webpage into reusable UI components
+- Sketched the layout to understand component-based design
 
 ---
 

@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+# 📘 Assignment (09/03/2026)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 😊 Assignment Name: Mood Tracker
 
-## Available Scripts
+### 📌 Description
 
-In the project directory, you can run:
+The **Mood Tracker** is a simple React application that allows users to select their current mood. When a user clicks a mood option, the interface updates dynamically using **React state**.
 
-### `npm start`
+This project demonstrates how React components respond to user interactions and how state can be used to update the UI in real time.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Technologies Used
 
-### `npm test`
+* React.js
+* JavaScript (ES6)
+* HTML5
+* CSS3
+* Node.js
+* VS Code
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## ✨ Features Implemented
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Mood selection buttons (Happy, Sad, Excited, Angry, Tired)
+* UI updates dynamically when a mood is selected
+* State management using **React `useState`**
+* Interactive and responsive interface
+* Real-time UI updates without refreshing the page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📂 Project Structure
 
-### `npm run eject`
+```
+Assignment-10
+│
+└── mood-tracker
+    │
+    ├── public
+    │   └── index.html
+    │
+    ├── src
+    │   ├── App.js
+    │   ├── App.css
+    │   └── index.js
+    │
+    ├── package.json
+    └── README.md
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## ▶️ How to Run the Project
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Navigate to the project folder
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+cd mood-tracker
+```
 
-## Learn More
+2. Install dependencies
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+npm install
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3. Start the React development server
 
-### Code Splitting
+```
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+4. Open the application in your browser
 
-### Analyzing the Bundle Size
+```
+http://localhost:3000
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 🎯 Learning Outcomes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Through this assignment, I learned:
 
-### Advanced Configuration
+* Basics of **React project structure**
+* Managing UI updates using **React state**
+* Handling **user interaction in React**
+* Building interactive components
+* Understanding **state-driven UI updates**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐ This assignment helped strengthen my understanding of **React fundamentals and interactive UI development**.

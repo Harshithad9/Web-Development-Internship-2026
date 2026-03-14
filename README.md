@@ -90,6 +90,16 @@ Created a task management app using React hooks
 Implemented functionality to add and delete tasks dynamically
 Managed task lists using React state and user input
 
+### ✅ Assignment 13 – Multi-Page App
+Converted a React application into a multi-page Single Page Application (SPA)
+Implemented client-side routing using React Router
+Enabled navigation between pages without refreshing the browser
+
+### ✅ Assignment 14 – Smart Signup Form
+Developed a signup form with input validations
+Implemented email format validation and password strength checks
+Displayed dynamic error messages and success feedback for user inputs
+
 ---
 
 ## 🎯 Key Learning Outcomes

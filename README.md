@@ -81,14 +81,14 @@ This internship focuses on strengthening my frontend fundamentals and understand
 - Handled loading states and error messages while retrieving data
 
 ### ✅ Assignment 11 – Mood Tracker
-Built a React application to track user moods
-Used React hooks (useState) to manage application state
-Updated the UI dynamically when users selected a mood
+- Built a React application to track user moods
+- Used React hooks (useState) to manage application state
+- Updated the UI dynamically when users selected a mood
 
 ### ✅ Assignment 12 – Dynamic List App
-Created a task management app using React hooks
-Implemented functionality to add and delete tasks dynamically
-Managed task lists using React state and user input
+- Created a task management app using React hooks
+- Implemented functionality to add and delete tasks dynamically
+- Managed task lists using React state and user input
 
 ### ✅ Assignment 13 – Multi-Page App
 Converted a React application into a multi-page Single Page Application (SPA)

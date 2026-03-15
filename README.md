@@ -91,9 +91,9 @@ This internship focuses on strengthening my frontend fundamentals and understand
 - Managed task lists using React state and user input
 
 ### ✅ Assignment 13 – Multi-Page App
-Converted a React application into a multi-page Single Page Application (SPA)
-Implemented client-side routing using React Router
-Enabled navigation between pages without refreshing the browser
+- Converted a React application into a multi-page Single Page Application (SPA)
+- Implemented client-side routing using React Router
+- Enabled navigation between pages without refreshing the browser
 
 ### ✅ Assignment 14 – Smart Signup Form
 Developed a signup form with input validations

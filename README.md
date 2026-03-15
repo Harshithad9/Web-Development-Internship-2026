@@ -76,9 +76,9 @@ This internship focuses on strengthening my frontend fundamentals and understand
 - Sketched the layout to understand component-based design
 
 ### ✅ Assignment 10 – Weather Dashboard
-Developed a React dashboard to display weather information
-Fetched real-time data from a public weather API
-Handled loading states and error messages while retrieving data
+- Developed a React dashboard to display weather information
+- Fetched real-time data from a public weather API
+- Handled loading states and error messages while retrieving data
 
 ### ✅ Assignment 11 – Mood Tracker
 Built a React application to track user moods

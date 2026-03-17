@@ -119,10 +119,6 @@ Through this internship, I have:
 
 - Add JavaScript interactivity to web pages
 - Make all projects fully responsive
-
-
-
-
 - Deploy projects using GitHub Pages
 - Convert static pages into dynamic web applications
 

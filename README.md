@@ -65,6 +65,9 @@ This internship focuses on strengthening my frontend fundamentals and understand
 - Displayed results using console output
 
 ### ✅ Assignment 8 – Interactive Form
+
+
+
 - Built an HTML form with input fields
 - Implemented JavaScript validation for user inputs
 - Displayed success and error messages
